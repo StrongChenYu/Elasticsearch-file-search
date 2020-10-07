@@ -4,7 +4,7 @@
 
 Elasticsearch-7.9.1
 
-博客：[https://www.jianshu.com/p/e9c45d6d23a7](https://www.jianshu.com/p/e9c45d6d23a7)
+博客：[https://www.cnblogs.com/strongchenyu/p/13777596.html](https://www.cnblogs.com/strongchenyu/p/13777596.html)
 
 打开`Test`目录，请运行前修改变量为自己的变量
 
